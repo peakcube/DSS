@@ -12,7 +12,7 @@ library(rPref);
 
 #***retrieve your subspace profiles; see Table 1 in §3.2 for example and explanation 
 #***You can find an example for 5-dimensional subspace profiles in GitHub: "SupSpaceProfiles.csv"
-subSpacesProfile<- read_csv("SupSpaceProfiles.csv");
+subSpacesProfile<- read_csv("2_SupSpaceProfiles.csv");
 #Note 1:SubSpaceProfiles are sorted on the LEVEL (Bottom-Up) see §3.2 in the paper to learn why
 #Note 2: TimeSequence (which always starts from 1) maps to PSEL.INDICES 
 
