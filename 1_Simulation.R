@@ -1,6 +1,6 @@
 #***This code implements §4 of the DSS paper:
 #***Peak Cubes in Service Operations: Bringing Multidimensionality into Decision Support Systems
-#***Note "SQI" in this code corresponds to "SQF" in the paper;
+#***Note that "SQI" in this code corresponds to "SQF" in the paper;
 #***We used SQI here given that we were simulating the service database of a company we were working with;
 #***in their service database, they showed service failures with different SQIs (Service Quality Indices)
 
